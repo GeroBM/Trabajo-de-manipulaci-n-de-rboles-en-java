@@ -13,7 +13,7 @@ public class ArbolInventario {
     // Función recursiva que encuentra el lugar correcto para insertar el nuevo nodo
     private Producto insertarRecursivo(Producto actual, int id, String nombre) {
         if (actual == null) {
-            return new Producto(id, nombre); // cuando encuentra un espacio vacío, crea un nuevo nodo con los datos
+            return new Producto(id, nombre); // Cuando encuentra un espacio vacío, crea un nuevo nodo con los datos
             }
 
         if (id < actual.id) { // Si el ID es menor, va a la rama izquierda
