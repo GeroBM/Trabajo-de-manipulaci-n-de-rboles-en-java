@@ -58,3 +58,7 @@ En esta se muestra un producto el cual fue encontrado en el inventario y el mens
 En esta se muestra el mensaje cuando el ususario sale del sistema de inventario.
 
 ---
+
+### Video del codigo
+
+> https://drive.google.com/file/d/1rsewpYmnYyo1Q9M67t5wVlFFPhvWrjA0/view?usp=drive_link
